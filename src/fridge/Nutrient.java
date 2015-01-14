@@ -3,7 +3,7 @@
  */
 package fridge;
 
-import quantite.Quantity;
+import quantity.Quantity;
 
 /**
  *

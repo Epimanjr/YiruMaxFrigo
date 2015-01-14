@@ -2,7 +2,7 @@
 package fridge;
 
 import java.util.HashMap;
-import quantite.Quantity;
+import quantity.Quantity;
 
 /**
  *
