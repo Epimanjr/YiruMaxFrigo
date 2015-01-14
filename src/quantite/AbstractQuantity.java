@@ -15,11 +15,6 @@ public abstract class AbstractQuantity implements Quantity {
     private int value;
     
     /**
-     * Limit of quantity.
-     */
-    private int threshold;
-
-    /**
      * Constructor.
      * @param value value
      */
@@ -35,14 +30,6 @@ public abstract class AbstractQuantity implements Quantity {
         this.value = value;
     }
 
-    public int getThreshold() {
-        return threshold;
-    }
-
-    public void setThreshold(int threshold) {
-        this.threshold = threshold;
-    }
-    
     
     
 }
